@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{adc2535d-0534-4826-8a66-bcaa50954c8e}">
+		<property name="assetPath">
+			<value>MUS/GreenGrassStage.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>103.44489795918368</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1f4b60f6-dc48-4238-a298-83908b1a5667}</destination>
+		</relationship>
+	</object>
+</objects>

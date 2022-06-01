@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: PlayerSpriteLibrary
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Player_1
+    m_Hash: 2080943825
+    m_CategoryList:
+    - m_Name: Idle_1
+      m_Hash: -1506399397
+      m_Sprite: {fileID: 21300000, guid: 0c8693d93d6f16e478803649eefd4943, type: 3}
+    - m_Name: Idle_2
+      m_Hash: 1061124833
+      m_Sprite: {fileID: 21300000, guid: bf220612651d00a47a6ef2fb5baf0ffd, type: 3}
+    - m_Name: Idle_3
+      m_Hash: 1211648631
+      m_Sprite: {fileID: 21300000, guid: 229f124ac716ff4408d44b864016da52, type: 3}
+    - m_Name: Idle_4
+      m_Hash: -698556460
+      m_Sprite: {fileID: 21300000, guid: 388b0b7717d89af499f26eb9690d427f, type: 3}
+    - m_Name: Jump_1
+      m_Hash: -546053831
+      m_Sprite: {fileID: 21300000, guid: ee1dcbd0022cab14db94dad909fa4084, type: 3}
+    - m_Name: Jump_2
+      m_Hash: 1182445699
+      m_Sprite: {fileID: 21300000, guid: cffa04fe392754540a25391cf5a49041, type: 3}
+    - m_Name: Jump_3
+      m_Hash: 830308373
+      m_Sprite: {fileID: 21300000, guid: cef318d793fe7524fa6246dcfdc05289, type: 3}
+    - m_Name: Jump_4
+      m_Hash: -1357310538
+      m_Sprite: {fileID: 21300000, guid: bfee63cb597341b43bb430526422f847, type: 3}
+    - m_Name: Walk_1
+      m_Hash: 1570040522
+      m_Sprite: {fileID: 3862490452234329136, guid: aed0f1037eaf990478a38d815cd396c1, type: 3}
+    - m_Name: Walk_2
+      m_Hash: -996295824
+      m_Sprite: {fileID: 3613554174907165116, guid: aed0f1037eaf990478a38d815cd396c1, type: 3}
+    - m_Name: Walk_3
+      m_Hash: -1281717274
+      m_Sprite: {fileID: 3554996583167997253, guid: aed0f1037eaf990478a38d815cd396c1, type: 3}
+    - m_Name: Walk_4
+      m_Hash: 771628613
+      m_Sprite: {fileID: 4973386832324140844, guid: aed0f1037eaf990478a38d815cd396c1, type: 3}
+    - m_Name: Shock_1
+      m_Hash: 1903721586
+      m_Sprite: {fileID: 21300000, guid: 61be485a6b35efe4b8defbae465033cf, type: 3}
+    - m_Name: Shock_2
+      m_Hash: -395235896
+      m_Sprite: {fileID: 21300000, guid: c23b259580f9bed4a825fecbda03493a, type: 3}
+    - m_Name: Shock_3
+      m_Hash: -1619649186
+      m_Sprite: {fileID: 21300000, guid: e626576879404af4fa1a77d0b9a54dc7, type: 3}
+    - m_Name: Run_1
+      m_Hash: -156984173
+      m_Sprite: {fileID: 21300000, guid: 081b527dacb37474aaed546e7e11d46d, type: 3}
+    - m_Name: Run_2
+      m_Hash: 1873661225
+      m_Sprite: {fileID: 21300000, guid: 39512b27b1c8d4d4880df3a1a1113ad6, type: 3}
+    - m_Name: Run_3
+      m_Hash: 413859263
+      m_Sprite: {fileID: 21300000, guid: de15bc5a9cd93664282903ede876a8b1, type: 3}
+    - m_Name: Run_4
+      m_Hash: -2033293284
+      m_Sprite: {fileID: 21300000, guid: 14c356627642406449d501dc59863ff7, type: 3}
+    - m_Name: Land_1
+      m_Hash: -1781491932
+      m_Sprite: {fileID: 21300000, guid: 101778fbebe09dd4a9dfff175690cac0, type: 3}
+    - m_Name: Land_2
+      m_Hash: 215598750
+      m_Sprite: {fileID: 21300000, guid: 80019aecf2340064ab5de00c70de20f2, type: 3}
+    - m_Name: Land_3
+      m_Hash: 2078209544
+      m_Sprite: {fileID: 21300000, guid: f9c4c82b852c3c74c9a8c76df7a5ca86, type: 3}
+    - m_Name: Hurt_1
+      m_Hash: -1647792345
+      m_Sprite: {fileID: 21300000, guid: 8c5b89d4bf9fd67468ef22d5651b18fd, type: 3}
+    - m_Name: Hurt_2
+      m_Hash: 79822493
+      m_Sprite: {fileID: 21300000, guid: 9e8fa264d0018c743bfdedd3c94c38e3, type: 3}
+    - m_Name: Hurt_3
+      m_Hash: 1942408715
+      m_Sprite: {fileID: 21300000, guid: 1250270e7759f9d468f1b0bef265e87e, type: 3}
+    - m_Name: Hurt_4
+      m_Hash: -308126808
+      m_Sprite: {fileID: 21300000, guid: 74047a06f70c36f46a3c526d5201d1a6, type: 3}
+    - m_Name: Hurt_5
+      m_Hash: -1700435138
+      m_Sprite: {fileID: 21300000, guid: 54a331d0105caeb4caf2dbab9c7234a8, type: 3}
+    - m_Name: Dead_1
+      m_Hash: -731864097
+      m_Sprite: {fileID: 21300000, guid: 47a21bfe341c8e845b57a5e0f86ec34d, type: 3}
+    - m_Name: Dead_2
+      m_Hash: 1298788965
+      m_Sprite: {fileID: 21300000, guid: a7f300bb786dd374aa8c56832a7f55e8, type: 3}
+    - m_Name: Dead_3
+      m_Hash: 980337395
+      m_Sprite: {fileID: 21300000, guid: 94e208997f76d9c4594eb1a009bde93d, type: 3}
+    - m_Name: Dead_4
+      m_Hash: -1542826160
+      m_Sprite: {fileID: 21300000, guid: b50f4844885fb254a98911eccdeb57d9, type: 3}
+    - m_Name: Dead_5
+      m_Hash: -754096186
+      m_Sprite: {fileID: 21300000, guid: 34d776cc425a0944f9be206059dfe67f, type: 3}
+    - m_Name: Dead_6
+      m_Hash: 1241790076
+      m_Sprite: {fileID: 21300000, guid: b85321f4f46bba247ac5c51e3e36a2a5, type: 3}
+    - m_Name: Dead_7
+      m_Hash: 1023608554
+      m_Sprite: {fileID: 21300000, guid: 6cf51e0dee728bd41acd5b74d64ebda5, type: 3}
+    - m_Name: Dead_8
+      m_Hash: -1380181125
+      m_Sprite: {fileID: 21300000, guid: d1735b3fd91eb634bbab7680c4ad04e9, type: 3}
+    - m_Name: Dead_9
+      m_Hash: -625267731
+      m_Sprite: {fileID: 21300000, guid: bd483104d50146d40a2378a3f1576520, type: 3}
+    - m_Name: Dead_10
+      m_Hash: -496799545
+      m_Sprite: {fileID: 21300000, guid: 20ac9ea8e5409ba4f8e1243f258b2db4, type: 3}
+    - m_Name: Dead_11
+      m_Hash: -1788592047
+      m_Sprite: {fileID: 21300000, guid: 454591583caa1ca4889e6b191754c47b, type: 3}
+    - m_Name: Dead_12
+      m_Hash: 208474603
+      m_Sprite: {fileID: 21300000, guid: 93fa7dd717f24574db0115c20bf58b16, type: 3}
+    - m_Name: Dead_13
+      m_Hash: 2070552957
+      m_Sprite: {fileID: 21300000, guid: 4f8c48bfeb2233f40bdd2978c0122843, type: 3}
+    - m_Name: Dead_14
+      m_Hash: -452021026
+      m_Sprite: {fileID: 21300000, guid: fb3a93303cfd31046abda286d7e07685, type: 3}
+    - m_Name: Dead_15
+      m_Hash: -1844870072
+      m_Sprite: {fileID: 21300000, guid: fb3a93303cfd31046abda286d7e07685, type: 3}
+    - m_Name: Dead_16
+      m_Hash: 184604146
+      m_Sprite: {fileID: 21300000, guid: 64bc10a11b2903f41ae5deb8b4305054, type: 3}
+    - m_Name: Dead_17
+      m_Hash: 2080892260
+      m_Sprite: {fileID: 21300000, guid: 9902a3cf5b4e494418a877f1a59b9411, type: 3}
+    - m_Name: Dead_18
+      m_Hash: -323421963
+      m_Sprite: {fileID: 21300000, guid: fb578d393493d654284201ecae81a9bc, type: 3}
+    - m_Name: Dead_19
+      m_Hash: -1681930141
+      m_Sprite: {fileID: 21300000, guid: 8cb80d881150d0643812910b84620bbb, type: 3}
